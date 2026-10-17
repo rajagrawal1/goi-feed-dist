@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-17T06:23:37.723712+00:00",
+  "generatedAt": "2026-10-17T07:09:40.048701+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-17T06:23:37.723712+00:00"
+      "lastOkAt": "2026-10-17T07:09:40.048701+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-10-17T06:23:37.723712+00:00"
+      "lastOkAt": "2026-10-17T07:09:40.048701+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-17T06:23:37.723712+00:00"
+      "lastOkAt": "2026-10-17T07:09:40.048701+00:00"
     }
   ],
   "announcements": [
