@@ -1,0 +1,242 @@
+{
+  "generatedAt": "2026-10-17T06:23:37.723712+00:00",
+  "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in)",
+  "sources": [
+    {
+      "name": "Income Tax Department",
+      "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
+      "ok": true,
+      "lastOkAt": "2026-10-17T06:23:37.723712+00:00"
+    },
+    {
+      "name": "GST Network",
+      "url": "https://www.gst.gov.in/fomessage/newsupdates",
+      "ok": true,
+      "lastOkAt": "2026-10-17T06:23:37.723712+00:00"
+    },
+    {
+      "name": "Reserve Bank of India",
+      "url": "https://www.rbi.org.in/pressreleases_rss.xml",
+      "ok": true,
+      "lastOkAt": "2026-10-17T06:23:37.723712+00:00"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "rbi-63822",
+      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series VII due on October 19, 2026 (October 20, 2026, being a holiday)",
+      "sourceUrl": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63822",
+      "category": "RATES",
+      "summary": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series VII due on October 19, 2026 (October 20, 2026, being a holiday)",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-10-16T13:00:00+00:00"
+    },
+    {
+      "id": "gst-678",
+      "title": "Introduction of e-Invoicing Facility for Recipient Generated Self Invoices under Reverse Charge Mechanism for Domestic Supplies from Unregistered Persons (RCMDOM) and Import of Services (RCMIMP)",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Dear Taxpayers, The GST Council, in its 57th meeting has recommended extending e-invoicing to domestic supplies received from an unregistered person where the tax is payable under reverse charge mechanism, as well as to the import of services, for taxpayers having aggregate annual turnover of Rs. 5 crore and above. Accordingly, the e-Invoicing system is being enhanced to facilitate the reporting…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-10-15T18:30:00+00:00"
+    },
+    {
+      "id": "gst-677",
+      "title": "Annual Returns in the form of GSTR-9/9C for FY 2025-26",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Dear Taxpayer Annual Returns in the form of GSTR-9/9C for FY 2025-26 have been enabled on the GST portal from 8th October 2026. Please ensure that all returns (GSTR 1 and GSTR 3B) for FY 2025-26 are filed to enable the tile of GSTR-9/9C. Further, in case of any assistance in filing the Annual Returns, the taxpayers are advised to raise a ticket on GSTN helpdesk at…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-10-12T18:30:00+00:00"
+    },
+    {
+      "id": "gst-676",
+      "title": "FAQs in relation to recommendations of the 57th GST Council Meeting",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "The FAQs on the 57th GST Council Meeting provide clarifications on key GST recommendations, procedural changes and their implications for taxpayers and businesses. They cover GST registration and amendments, cancellation procedures, simplified registration for eligible e-commerce sellers, faster and automated refund processing, and proposed changes to ITC refund calculations, including eligible…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-10-12T18:30:00+00:00"
+    },
+    {
+      "id": "gst-675",
+      "title": "Recommendations of the 57th GST Council Meeting – Key Reforms",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "The GST Council, in its 57th meeting held on 8 October 2026, recommended a series of reforms to simplify GST compliance, streamline registration and return filing, expedite refunds, and improve the flow of Input Tax Credit (ITC). Key recommendations include the removal of arrest provisions under GST, raising the prosecution threshold from ₹1 crore to ₹5 crore, reducing the maximum general penalty…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-10-08T18:30:00+00:00"
+    },
+    {
+      "id": "gst-674",
+      "title": "Advisory on “Multistate Registration” Facility for GST Registration",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "1.It is informed that an option for “Multistate Registration” has been introduced. The functionality enables taxpayers to apply for registration in multiple States/UTs simultaneously. Taxpayers seeking GST registration in more than one State/UT under the same PAN can use this functionality. Currently, the functionality is available only for Normal Taxpayers. 2.A “Multistate Registration” tab has…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-09-30T18:30:00+00:00"
+    },
+    {
+      "id": "gst-673",
+      "title": "Gross and Net GST revenue collections for the month of September, 2026",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Please click on the link below to view the gross and net GST revenue collections for the month of September, 2026. https://tutorial.gst.gov.in/downloads/news/final_gst_revenue_report_for_publishing_monthly_sep_2026.pdf Thanks, Team GSTN",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-09-30T18:30:00+00:00"
+    },
+    {
+      "id": "itd-11961",
+      "title": "As per Circular No.07/2026 dated 28th September,2026, the due dates for ITR and Audit Report are extended as below: Due date for filing of Income Tax Returns for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of Income Tax Act 1961 from 31st October 2026 to 21st November 2026\" Accordingly, the Audit Reports for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of Income Tax Act 1961 from 30th September 2026 to 21st October, 2026. Click here",
+      "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
+      "category": "INCOME_TAX",
+      "summary": "As per Circular No.07/2026 dated 28th September,2026, the due dates for ITR and Audit Report are extended as below: Due date for filing of Income Tax Returns for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of Income Tax Act 1961 from 31st October 2026 to 21st November 2026\" Accordingly, the Audit Reports for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of Income Tax Act 1961 from 30th September 2026 to 21st October, 2026. Click here",
+      "ministry": "Income Tax Department",
+      "publishedAt": "2026-09-29T12:00:39+00:00"
+    },
+    {
+      "id": "gst-672",
+      "title": "Advisory on use of version 3.3 of emSigner",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "This is an advance information to the all users – Taxpayers and Tax Officers, of GST System who use Digital Certificate Signature on the GST Portal. A new version of emSigner (v3.3) is being made available for download for the purpose of providing compatibility with tokens (USB dongles) that are issued on or after 21-September-2026. A. Users with valid certificates: There is no change for the…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-09-18T18:30:00+00:00"
+    },
+    {
+      "id": "gst-671",
+      "title": "Enabling Filing of Appeals in Cases Involving NIL or Zero Demand Amount – reg.",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "In cases where a dispute regarding liability exists but the demand amount is reflected as \"NIL\" or \"Zero\" in the demand order, and payment has been made by the taxpayer prior to the issuance of the demand order, the previous validation restricting the filing of an appeal against such demand orders has been removed from the GST Portal. Accordingly, taxpayers are now enabled to file an appeal in…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-09-06T18:30:00+00:00"
+    },
+    {
+      "id": "gst-670",
+      "title": "Gross and Net GST revenue collections for the month of August, 2026",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Please click on the link below to view the gross and net GST revenue collections for the month of August, 2026. https://tutorial.gst.gov.in/downloads/news/aug_2026_gst_revenue_report_final_for_publishing_monthly.pdf Thanks, Team GSTN",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-08-31T18:30:00+00:00"
+    },
+    {
+      "id": "gst-669",
+      "title": "Gross and Net GST revenue collections for the month of July, 2026",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Please click on the link below to view the gross and net GST revenue collections for the month of July, 2026. https://tutorial.gst.gov.in/downloads/news/final_for_publishing_july_2026_monthly_gst_revenue_report.pdf Thanks, Team GSTN",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-07-31T18:30:00+00:00"
+    },
+    {
+      "id": "gst-668",
+      "title": "Advisory on Keeping on Hold the Proposed e-Way Bill Enhancements",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "GSTN had earlier issued advisories dated 9th June 2026 and 17th June 2026 regarding certain proposed enhancements to the e-Way Bill system, with the scheduled date of implementation as 1st August 2026. Detailed FAQs relating to these enhancements were also issued on 2nd July 2026. It is hereby informed that the implementation of the above-mentioned enhancements has been kept on hold until further…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-07-28T18:30:00+00:00"
+    },
+    {
+      "id": "itd-11888",
+      "title": "CBDT has issued Notification No. 80/2026 [F. No. 275/19/2026-IT(B)], notifying that specified payments such as interest, dividends, professional fees, commission, brokerage, and other financial service-related income received by eligible IFSC Units shall be exempt from TDS under the Income-tax Act, 2025. Click here",
+      "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-80-2026.pdf",
+      "category": "INCOME_TAX",
+      "summary": "CBDT has issued Notification No. 80/2026 [F. No. 275/19/2026-IT(B)], notifying that specified payments such as interest, dividends, professional fees, commission, brokerage, and other financial service-related income received by eligible IFSC Units shall be exempt from TDS under the Income-tax Act, 2025. Click here",
+      "ministry": "Income Tax Department",
+      "publishedAt": "2026-07-13T08:57:56+00:00"
+    },
+    {
+      "id": "itd-11884",
+      "title": "Excel Utility of ITR-7 for AY 2026-27 is available for filing. Click here",
+      "sourceUrl": "https://www.incometax.gov.in/iec/foportal/downloads/income-tax-returns",
+      "category": "INCOME_TAX",
+      "summary": "Excel Utility of ITR-7 for AY 2026-27 is available for filing. Click here",
+      "ministry": "Income Tax Department",
+      "publishedAt": "2026-07-09T10:19:00+00:00"
+    },
+    {
+      "id": "gst-666",
+      "title": "Advisory on Revision of Timeline for Amendment of Aggregate Annual Turnover (AATO), 2026",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "It is informed that the Aggregate Annual Turnover (AATO) functionality is currently being upgraded to enable automatic updation of AATO as subsequent returns are filed post amendment window. As this enhanced functionality is being deployed from 1st July 2026, the window for amendment of AATO by taxpayers for FY 2025-26 has been revised on the GST Portal. GSTN had earlier issued an advisory dated…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-06-30T18:30:00+00:00"
+    },
+    {
+      "id": "gst-665",
+      "title": "Gross and Net GST revenue collections for the month of June, 2026",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Please click on the link below to view the gross and net GST revenue collections for the month of June, 2026. https://tutorial.gst.gov.in/downloads/news/for_publishing_monthly_gst_revenue_june_2026.pdf Thanks, Team GSTN",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-06-30T18:30:00+00:00"
+    },
+    {
+      "id": "gst-662",
+      "title": "Gross and Net GST revenue collections for the month of May, 2026",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Please click on the link below to view the gross and net GST revenue collections for the month of May, 2026. https://tutorial.gst.gov.in/downloads/news/final_monthly_gst_data_for_may_2026_for_publishing.pdf Thanks, Team GSTN",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-05-31T18:30:00+00:00"
+    },
+    {
+      "id": "gst-660",
+      "title": "Filing of Annexure-B for Refund Applications involving Accumulated ITC using the offline utility in GST portal",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Until now, while filing refund applications under specific categories involving accumulated Input Tax Credit (ITC), taxpayers were uploading Annexure-B in a PDF format, in terms of extant guidelines. In order to further automate the refund filing process and enable system-based verification of invoices and documents, a standardized Annexure-B Offline Utility has now been deployed on the portal…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-05-17T18:30:00+00:00"
+    },
+    {
+      "id": "gst-659",
+      "title": "Gross and Net GST revenue collections for the month of Apr, 2026",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Please click on the link below to view the gross and net GST revenue collections for the month of Apr, 2026. https://tutorial.gst.gov.in/downloads/news/for_publishing_monthly_gst_data_for_apr_2026.pdf Thanks, Team GSTN",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-04-30T18:30:00+00:00"
+    },
+    {
+      "id": "gst-658",
+      "title": "Introduction of IMS Offline Tool",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "The Invoice Management System (IMS) was introduced on the GST portal from the October 2024 tax period enabling the taxpayers to take actions on invoices uploaded by their suppliers through GSTR-1, GSTR-1A, or IFF, including accepting, rejecting, or keeping such records pending in the system. To continuously enhance the taxpayer convenience and facilitate ease of compliance, an IMS Offline Tool…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-04-20T18:30:00+00:00"
+    },
+    {
+      "id": "gst-657",
+      "title": "Advisory on Re-Computation of Interest under Table 5.1 of GSTR-3B",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Please click on the link below to access the detailed advisory for taxpayers wherein the system-calculated interest for the February 2026 period which has been wrongly calculated and auto-populated in the March 2026 GSTR-3B. The advisory elaborates the process that needs to be followed by taxpayer for correct calculation of the interest. Link for the attached pdf Thanks, Team GSTN",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-04-15T18:30:00+00:00"
+    },
+    {
+      "id": "gst-656",
+      "title": "Pre-deposit Percentage in the GST Portal",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "While filing an appeal in Form APL-01 on the GST portal, the pre-deposit percentage is auto-populated as 10% in accordance with Section 107(6) of the CGST Act, 2017, and was previously non-editable. Due to this restriction, taxpayers faced difficulties in cases where the pre-deposit had already been made through other means or where the demand amount was incorrectly reflected under the…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-04-09T18:30:00+00:00"
+    },
+    {
+      "id": "gst-655",
+      "title": "Subject: Difficulty in filing appeals on the GST portal in cases where adjudication orders reflect \"NIL\" demand due to prior voluntary payment – reg.",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "1. Introduction It has come to the notice of GSTN that certain taxpayers are facing difficulties in filing appeals on the GST portal against demand orders wherein the demand amount is reflected as \"NIL,\" despite the existence of a dispute regarding tax liability. This situation generally arises in cases where the taxpayer has made payment of tax, interest, or penalty (fully or partially) at the…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-04-02T18:30:00+00:00"
+    }
+  ]
+}
