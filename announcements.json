@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-17T07:56:22.391006+00:00",
+  "generatedAt": "2026-10-17T16:26:35.543372+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-17T07:56:22.391006+00:00"
+      "lastOkAt": "2026-10-17T16:26:35.543372+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-10-17T07:56:22.391006+00:00"
+      "lastOkAt": "2026-10-17T16:26:35.543372+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-17T07:56:22.391006+00:00"
+      "lastOkAt": "2026-10-17T16:26:35.543372+00:00"
     }
   ],
   "announcements": [
@@ -57,6 +57,24 @@
       "summary": "The FAQs on the 57th GST Council Meeting provide clarifications on key GST recommendations, procedural changes and their implications for taxpayers and businesses. They cover GST registration and amendments, cancellation procedures, simplified registration for eligible e-commerce sellers, faster and automated refund processing, and proposed changes to ITC refund calculations, including eligible…",
       "ministry": "GST Network (gst.gov.in)",
       "publishedAt": "2026-10-12T18:30:00+00:00"
+    },
+    {
+      "id": "itd-11967",
+      "title": "CBDT has issued Notification No. 134/2026 dated 8 October 2026, notifying the Income-tax (Sixth Amendment) Rules, 2026, which introduce a revised Form 161 for filing applications for waiver of penalty under section 440(2) of the Income-tax Act, 2025.Click here",
+      "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-134-2026.pdf",
+      "category": "INCOME_TAX",
+      "summary": "CBDT has issued Notification No. 134/2026 dated 8 October 2026, notifying the Income-tax (Sixth Amendment) Rules, 2026, which introduce a revised Form 161 for filing applications for waiver of penalty under section 440(2) of the Income-tax Act, 2025.Click here",
+      "ministry": "Income Tax Department",
+      "publishedAt": "2026-10-12T08:53:45+00:00"
+    },
+    {
+      "id": "itd-11966",
+      "title": "CBDT Notification No. 133/2026 amends the 1988 notification to specify that Joint Commissioners (Appeals) and Additional Commissioners (Appeals) shall be subordinate to the jurisdictional Principal Chief Commissioner or Chief Commissioner of Income-tax. Click here",
+      "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-133-2026.pdf",
+      "category": "INCOME_TAX",
+      "summary": "CBDT Notification No. 133/2026 amends the 1988 notification to specify that Joint Commissioners (Appeals) and Additional Commissioners (Appeals) shall be subordinate to the jurisdictional Principal Chief Commissioner or Chief Commissioner of Income-tax. Click here",
+      "ministry": "Income Tax Department",
+      "publishedAt": "2026-10-12T08:53:41+00:00"
     },
     {
       "id": "gst-675",
