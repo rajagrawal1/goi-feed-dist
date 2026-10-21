@@ -1,27 +1,36 @@
 {
-  "generatedAt": "2026-10-21T08:36:34.485212+00:00",
+  "generatedAt": "2026-10-21T18:04:17.343859+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-21T08:36:34.485212+00:00"
+      "lastOkAt": "2026-10-21T18:04:17.343859+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-10-21T08:36:34.485212+00:00"
+      "lastOkAt": "2026-10-21T18:04:17.343859+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-21T08:36:34.485212+00:00"
+      "lastOkAt": "2026-10-21T18:04:17.343859+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "rbi-63839",
+      "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
+      "category": "RATES",
+      "summary": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-10-21T11:30:00+00:00"
+    },
     {
       "id": "rbi-63822",
       "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series VII due on October 19, 2026 (October 20, 2026, being a holiday)",
