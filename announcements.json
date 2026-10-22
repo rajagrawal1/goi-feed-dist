@@ -1,27 +1,36 @@
 {
-  "generatedAt": "2026-10-22T08:38:49.352059+00:00",
+  "generatedAt": "2026-10-22T17:59:59.682336+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-22T08:38:49.352059+00:00"
+      "lastOkAt": "2026-10-22T17:59:59.682336+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-10-22T08:38:49.352059+00:00"
+      "lastOkAt": "2026-10-22T17:59:59.682336+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-22T08:38:49.352059+00:00"
+      "lastOkAt": "2026-10-22T17:59:59.682336+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "rbi-63847",
+      "title": "Final redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for final redemption of SGB 2018-19 Series-II due on October 23, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63847",
+      "category": "RATES",
+      "summary": "Final redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for final redemption of SGB 2018-19 Series-II due on October 23, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-10-22T13:00:00+00:00"
+    },
     {
       "id": "rbi-63839",
       "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
