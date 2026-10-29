@@ -1,27 +1,36 @@
 {
-  "generatedAt": "2026-10-28T09:41:38.127396+00:00",
+  "generatedAt": "2026-10-29T01:37:54.155475+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-28T09:41:38.127396+00:00"
+      "lastOkAt": "2026-10-29T01:37:54.155475+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-10-28T09:41:38.127396+00:00"
+      "lastOkAt": "2026-10-29T01:37:54.155475+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-28T09:41:38.127396+00:00"
+      "lastOkAt": "2026-10-29T01:37:54.155475+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "gst-679",
+      "title": "Advisory – Scheduled Maintenance of e-Invoice Services (31 October – 1 November 2026)",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Dear Taxpayers, Due to a scheduled infrastructure upgrade, certain e-Invoice-related services on the GST portal ( https://einvoice.gst.gov.in ) would remain temporarily unavailable during the following period: Start: 31 October 2026, 9:00 AM (IST) End: 1 November 2026, 1:00 PM (IST) Affected services: 1. e-Invoice data retrieval and processing from IRPs. 2. Auto-population of e-Invoice data in…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-10-27T18:30:00+00:00"
+    },
     {
       "id": "rbi-63872",
       "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series I due on October 28, 2026",
