@@ -1,27 +1,36 @@
 {
-  "generatedAt": "2026-10-29T09:59:57.032429+00:00",
+  "generatedAt": "2026-10-29T18:58:41.140163+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-29T09:59:57.032429+00:00"
+      "lastOkAt": "2026-10-29T18:58:41.140163+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-10-29T09:59:57.032429+00:00"
+      "lastOkAt": "2026-10-29T18:58:41.140163+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-29T09:59:57.032429+00:00"
+      "lastOkAt": "2026-10-29T18:58:41.140163+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "rbi-63884",
+      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2019-20 Series VI due on October 30, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63884",
+      "category": "RATES",
+      "summary": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2019-20 Series VI due on October 30, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-10-29T12:15:00+00:00"
+    },
     {
       "id": "gst-679",
       "title": "Advisory – Scheduled Maintenance of e-Invoice Services (31 October – 1 November 2026)",
@@ -39,6 +48,15 @@
       "summary": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series I due on October 28, 2026",
       "ministry": "Reserve Bank of India",
       "publishedAt": "2026-10-27T12:20:00+00:00"
+    },
+    {
+      "id": "itd-11973",
+      "title": "CBDT has proposed the Income-tax (Seventh Amendment) Rules, 2026, introducing Rule 281A and new Form 173A for furnishing information to claim exemption on interest income and capital gains from Government securities under Schedule IV of the Income-tax Act, 2025.Click here",
+      "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-137-2026.pdf",
+      "category": "INCOME_TAX",
+      "summary": "CBDT has proposed the Income-tax (Seventh Amendment) Rules, 2026, introducing Rule 281A and new Form 173A for furnishing information to claim exemption on interest income and capital gains from Government securities under Schedule IV of the Income-tax Act, 2025.Click here",
+      "ministry": "Income Tax Department",
+      "publishedAt": "2026-10-27T03:55:24+00:00"
     },
     {
       "id": "rbi-63847",
