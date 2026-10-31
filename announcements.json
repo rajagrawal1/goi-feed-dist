@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-31T09:40:51.405359+00:00",
+  "generatedAt": "2026-10-31T17:45:08.936426+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-31T09:40:51.405359+00:00"
+      "lastOkAt": "2026-10-31T17:45:08.936426+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-10-31T09:40:51.405359+00:00"
+      "lastOkAt": "2026-10-31T17:45:08.936426+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-31T09:40:51.405359+00:00"
+      "lastOkAt": "2026-10-31T17:45:08.936426+00:00"
     }
   ],
   "announcements": [
@@ -174,6 +174,15 @@
       "summary": "As per Circular No.07/2026 dated 28th September,2026, the due dates for ITR and Audit Report are extended as below: Due date for filing of Income Tax Returns for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of Income Tax Act 1961 from 31st October 2026 to 21st November 2026\" Accordingly, the Audit Reports for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of Income Tax Act 1961 from 30th September 2026 to 21st October, 2026. Click here",
       "ministry": "Income Tax Department",
       "publishedAt": "2026-09-29T12:00:39+00:00"
+    },
+    {
+      "id": "itd-11951",
+      "title": "CBDT has issued Notification No. 121/2026 extends TDS reporting requirements for non-resident property transactions and updates Forms 132 & 141.Click here",
+      "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-121-2026.pdf",
+      "category": "INCOME_TAX",
+      "summary": "CBDT has issued Notification No. 121/2026 extends TDS reporting requirements for non-resident property transactions and updates Forms 132 & 141.Click here",
+      "ministry": "Income Tax Department",
+      "publishedAt": "2026-09-24T11:24:48+00:00"
     },
     {
       "id": "gst-672",
