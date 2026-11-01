@@ -1,27 +1,36 @@
 {
-  "generatedAt": "2026-10-31T17:45:08.936426+00:00",
+  "generatedAt": "2026-11-01T09:46:23.255056+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-31T17:45:08.936426+00:00"
+      "lastOkAt": "2026-11-01T09:46:23.255056+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-10-31T17:45:08.936426+00:00"
+      "lastOkAt": "2026-11-01T09:46:23.255056+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-10-31T17:45:08.936426+00:00"
+      "lastOkAt": "2026-11-01T09:46:23.255056+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "gst-680",
+      "title": "Gross and Net GST revenue collections for the month of October, 2026",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Please click on the link below to view the gross and net GST revenue collections for the month of October, 2026. https://tutorial.gst.gov.in/downloads/news/gst_revenue_report_final_for_publishing_oct_2026.pdf Thanks, Team GSTN",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-10-31T18:30:00+00:00"
+    },
     {
       "id": "rbi-63897",
       "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series VII due on November 02, 2026",
