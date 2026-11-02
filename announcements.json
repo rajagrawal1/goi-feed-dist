@@ -1,27 +1,81 @@
 {
-  "generatedAt": "2026-11-01T10:29:21.621162+00:00",
+  "generatedAt": "2026-11-02T01:15:28.390052+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-01T10:29:21.621162+00:00"
+      "lastOkAt": "2026-11-02T01:15:28.390052+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-01T10:29:21.621162+00:00"
+      "lastOkAt": "2026-11-02T01:15:28.390052+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-01T10:29:21.621162+00:00"
+      "lastOkAt": "2026-11-02T01:15:28.390052+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "gst-686",
+      "title": "Advisory on Key Changes in the GST Registration Amendment Process",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Vide Notification No. 05/2026-Central Tax Dated:26.10.2026, Rule 21 of Central Goods and Services Tax Rules, 2017, the provisions relating to amendment of registration under Rule 19 of the CGST Rules, 2017 have been substituted. The corresponding changes have been implemented on the GST portal. 1. Amendment of Principal Place of Business In case of amendment relating to the Principal Place of…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-10-31T18:30:00+00:00"
+    },
+    {
+      "id": "gst-685",
+      "title": "Advisory on Enhancements Related to Composition Levy Functionality under GST",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Some changes have been introduced on the GST portal for taxpayers registered under or opting for, the Composition Scheme. These changes will apply to applications filed through Form REG-01, CMP-02, CMP-04 and REG-14. Introduction of New Composition Category A new category has been introduced for composition taxpayers: “Person eligible for composition levy under Section 10(2A)” Accordingly…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-10-31T18:30:00+00:00"
+    },
+    {
+      "id": "gst-684",
+      "title": "TDS Registration Advisory for Dealers in Scrap and Other Notified Goods",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "The Government, vide Notification No. 25/2024-Central Tax dated 9 October 2024, had introduced TDS compliance requirements under Section 51 of the CGST Act, 2017, for businesses dealing in metal scrap. Accordingly, GSTN had earlier issued an advisory Dated:22.10.2024 regarding TDS registration. Subsequently vide Notification No. 07/2026-Central Tax, Dated: 27th October 2026, the following…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-10-31T18:30:00+00:00"
+    },
+    {
+      "id": "gst-683",
+      "title": "Advisory on the Revised Process for Approval of Registration Cancellation application under Form GST REG-16",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "The self-cancellation process has been revised to incorporate system-based validations and facilitate the electronic approval of cancellation of registration, subject to the fulfilment of the prescribed conditions as per rule 20 of the Central GST Rules, 2017. The revised process is outlined below: Validation of Due Returns: The system will verify whether the taxpayer has filed all applicable…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-10-31T18:30:00+00:00"
+    },
+    {
+      "id": "gst-682",
+      "title": "Advisory on Simplified Registration Scheme under Rule 14B of the CGST Rules, 2017",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Pursuant to Notification No. 05/2026-Central Tax dated 26.10.2026, GSTN has introduced a facility on the GST Portal to enable eligible suppliers selling goods through e-Commerce Operators (ECOs) that collect tax at source under Section 52 of the CGST Act, 2017, to obtain registration under the Simplified Registration Scheme in terms of Rule 14B of the CGST Rules, 2017. Under this scheme, eligible…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-10-31T18:30:00+00:00"
+    },
+    {
+      "id": "gst-681",
+      "title": "Advisory on Important Changes in FORM GST REG-01 for GST Registration",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "Taxpayers intending to obtain registration under GST are hereby informed that FORM GST REG-01 has been revised on GST portal to incorporate certain changes in the registration application process. The revised form introduces additional information requirements and standardises the documentary requirements relating to constitution of business, principal and additional places of business and other…",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-10-31T18:30:00+00:00"
+    },
     {
       "id": "gst-680",
       "title": "Gross and Net GST revenue collections for the month of October, 2026",
