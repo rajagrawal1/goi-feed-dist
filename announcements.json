@@ -1,27 +1,36 @@
 {
-  "generatedAt": "2026-11-08T10:25:05.693896+00:00",
+  "generatedAt": "2026-11-08T18:22:21.965420+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-08T10:25:05.693896+00:00"
+      "lastOkAt": "2026-11-08T18:22:21.965420+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-08T10:25:05.693896+00:00"
+      "lastOkAt": "2026-11-08T18:22:21.965420+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-08T10:25:05.693896+00:00"
+      "lastOkAt": "2026-11-08T18:22:21.965420+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "itd-11978",
+      "title": "CBDT has notified that no tax shall be deducted on dividend income paid by an International Financial Services Centre (IFSC) unit engaged in aircraft leasing to another IFSC unit engaged in aircraft leasing, subject to furnishing the prescribed Form No. 1(N), vide Notification No. 141/2026 dated 4 November 2026, with effect from 1 April 2026, under the Income-tax Act, 2025.Click here",
+      "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-11/Notification-No-141-2026.pdf",
+      "category": "INCOME_TAX",
+      "summary": "CBDT has notified that no tax shall be deducted on dividend income paid by an International Financial Services Centre (IFSC) unit engaged in aircraft leasing to another IFSC unit engaged in aircraft leasing, subject to furnishing the prescribed Form No. 1(N), vide Notification No. 141/2026 dated 4 November 2026, with effect from 1 April 2026, under the Income-tax Act, 2025.Click here",
+      "ministry": "Income Tax Department",
+      "publishedAt": "2026-11-06T07:44:33+00:00"
+    },
     {
       "id": "gst-687",
       "title": "Revision in E-Way Bill and Consolidated E-Way Bill Numbering Formats w.e.f. 1 January 2027",
