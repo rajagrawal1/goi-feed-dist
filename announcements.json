@@ -1,27 +1,36 @@
 {
-  "generatedAt": "2026-11-12T11:15:03.821231+00:00",
+  "generatedAt": "2026-11-12T20:50:15.474201+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-12T11:15:03.821231+00:00"
+      "lastOkAt": "2026-11-12T20:50:15.474201+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-12T11:15:03.821231+00:00"
+      "lastOkAt": "2026-11-12T20:50:15.474201+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-12T11:15:03.821231+00:00"
+      "lastOkAt": "2026-11-12T20:50:15.474201+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "rbi-63964",
+      "title": "Final redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for final redemption of SGB 2018-19 Series-III due on November 13, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63964",
+      "category": "RATES",
+      "summary": "Final redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for final redemption of SGB 2018-19 Series-III due on November 13, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-12T13:05:00+00:00"
+    },
     {
       "id": "itd-11978",
       "title": "CBDT has notified that no tax shall be deducted on dividend income paid by an International Financial Services Centre (IFSC) unit engaged in aircraft leasing to another IFSC unit engaged in aircraft leasing, subject to furnishing the prescribed Form No. 1(N), vide Notification No. 141/2026 dated 4 November 2026, with effect from 1 April 2026, under the Income-tax Act, 2025.Click here",
