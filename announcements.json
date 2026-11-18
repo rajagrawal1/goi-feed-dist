@@ -1,59 +1,71 @@
 {
   "schemaVersion": 4,
   "tagsRulesVersion": 5,
-  "generatedAt": "2026-11-18T06:26:05.994986+00:00",
+  "generatedAt": "2026-11-18T11:45:04.795125+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in), RBI notifications (rbi.org.in), SEBI (sebi.gov.in), NSE (nseindia.com), PIB (pib.gov.in), BSE (bseindia.com)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
+      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
+      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
+      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
     },
     {
       "name": "RBI notifications",
       "url": "https://www.rbi.org.in/notifications_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
+      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
     },
     {
       "name": "SEBI",
       "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
       "ok": true,
-      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
+      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
     },
     {
       "name": "NSE",
       "url": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
+      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
     },
     {
       "name": "PIB",
       "url": "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1",
       "ok": true,
-      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
+      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
     },
     {
       "name": "BSE",
       "url": "https://www.bseindia.com/data/xml/notices.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
+      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "bse-20261118-12",
+      "title": "Dissemination of Position Limits applicable for Indices in Equity Derivatives segment",
+      "sourceUrl": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-12/20261118-12.pdf",
+      "category": "MARKETS",
+      "summary": "",
+      "ministry": "BSE Limited",
+      "publishedAt": "2026-11-18T11:11:19+00:00",
+      "tags": [
+        "FNO_TRADER"
+      ]
+    },
     {
       "id": "bse-20261117-35",
       "title": "Revised Operating Guidelines of Closing Auction Session in Equity Cash Segment",
