@@ -1,56 +1,56 @@
 {
   "schemaVersion": 4,
   "tagsRulesVersion": 5,
-  "generatedAt": "2026-11-18T05:28:07.736546+00:00",
+  "generatedAt": "2026-11-18T05:42:39.877704+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in), RBI notifications (rbi.org.in), SEBI (sebi.gov.in), NSE (nseindia.com), PIB (pib.gov.in), BSE (bseindia.com)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:28:07.736546+00:00"
+      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:28:07.736546+00:00"
+      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:28:07.736546+00:00"
+      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
     },
     {
       "name": "RBI notifications",
       "url": "https://www.rbi.org.in/notifications_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:28:07.736546+00:00"
+      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
     },
     {
       "name": "SEBI",
       "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:28:07.736546+00:00"
+      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
     },
     {
       "name": "NSE",
       "url": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:28:07.736546+00:00"
+      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
     },
     {
       "name": "PIB",
       "url": "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:28:07.736546+00:00"
+      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
     },
     {
       "name": "BSE",
       "url": "https://www.bseindia.com/data/xml/notices.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:28:07.736546+00:00"
+      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
     }
   ],
   "announcements": [
@@ -109,7 +109,6 @@
       "summary": "This is in continuation of the earlier advisory dated 16 October 2026 regarding the introduction of e-Invoicing for recipient-generated self-invoices under the Reverse Charge Mechanism (RCM) for domestic supplies received from unregistered persons (RCMDOM) and import of services (RCMIMP).",
       "ministry": "GST Network (gst.gov.in)",
       "publishedAt": "2026-11-16T18:30:00+00:00",
-      "reference": "Notification No. 04/2026-Central Tax dated 26 October 2026",
       "tags": [
         "SMALL_BUSINESS"
       ]
@@ -313,7 +312,6 @@
       "summary": "Rule 21 of Central Goods and Services Tax Rules, 2017, the provisions relating to amendment of registration under Rule 19 of the CGST Rules, 2017 have been substituted. The corresponding changes have been implemented on the GST portal.",
       "ministry": "GST Network (gst.gov.in)",
       "publishedAt": "2026-10-31T18:30:00+00:00",
-      "reference": "Notification No. 05/2026-Central Tax Dated:26.10.2026",
       "tags": [
         "SMALL_BUSINESS"
       ]
@@ -338,7 +336,6 @@
       "summary": "The Government had introduced TDS compliance requirements under Section 51 of the CGST Act, 2017, for businesses dealing in metal scrap. Accordingly, GSTN had earlier issued an advisory Dated:22.10.2024 regarding TDS registration.",
       "ministry": "GST Network (gst.gov.in)",
       "publishedAt": "2026-10-31T18:30:00+00:00",
-      "reference": "Notification No. 25/2024-Central Tax dated 9 October 2024; Notification No. 07/2026-Central Tax, Dated: 27th October 2026",
       "tags": [
         "SMALL_BUSINESS"
       ]
