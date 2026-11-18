@@ -1,59 +1,75 @@
 {
   "schemaVersion": 4,
-  "tagsRulesVersion": 5,
-  "generatedAt": "2026-11-18T11:45:04.795125+00:00",
+  "tagsRulesVersion": 6,
+  "generatedAt": "2026-11-18T14:38:54.744615+00:00",
+  "version": 1795012734,
+  "expires": "2026-11-25T14:38:54Z",
+  "keyId": "433255ec77dedacb",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in), RBI notifications (rbi.org.in), SEBI (sebi.gov.in), NSE (nseindia.com), PIB (pib.gov.in), BSE (bseindia.com)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
-      "ok": true,
+      "ok": false,
       "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
+      "lastOkAt": "2026-11-18T14:38:54.744615+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
+      "lastOkAt": "2026-11-18T14:38:54.744615+00:00"
     },
     {
       "name": "RBI notifications",
       "url": "https://www.rbi.org.in/notifications_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
+      "lastOkAt": "2026-11-18T14:38:54.744615+00:00"
     },
     {
       "name": "SEBI",
       "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
       "ok": true,
-      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
+      "lastOkAt": "2026-11-18T14:38:54.744615+00:00"
     },
     {
       "name": "NSE",
       "url": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
+      "lastOkAt": "2026-11-18T14:38:54.744615+00:00"
     },
     {
       "name": "PIB",
       "url": "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1",
       "ok": true,
-      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
+      "lastOkAt": "2026-11-18T14:38:54.744615+00:00"
     },
     {
       "name": "BSE",
       "url": "https://www.bseindia.com/data/xml/notices.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T11:45:04.795125+00:00"
+      "lastOkAt": "2026-11-18T14:38:54.744615+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "rbi-63996",
+      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series II due on November 19, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63996",
+      "category": "RATES",
+      "summary": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series II due on November 19, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-18T12:25:00+00:00",
+      "tags": [
+        "INVESTOR",
+        "SAVER"
+      ]
+    },
     {
       "id": "bse-20261118-12",
       "title": "Dissemination of Position Limits applicable for Indices in Equity Derivatives segment",
