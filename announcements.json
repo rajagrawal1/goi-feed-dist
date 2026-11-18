@@ -1,56 +1,56 @@
 {
   "schemaVersion": 4,
   "tagsRulesVersion": 5,
-  "generatedAt": "2026-11-18T05:42:39.877704+00:00",
+  "generatedAt": "2026-11-18T06:26:05.994986+00:00",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in), RBI notifications (rbi.org.in), SEBI (sebi.gov.in), NSE (nseindia.com), PIB (pib.gov.in), BSE (bseindia.com)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
+      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
+      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
+      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
     },
     {
       "name": "RBI notifications",
       "url": "https://www.rbi.org.in/notifications_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
+      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
     },
     {
       "name": "SEBI",
       "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
+      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
     },
     {
       "name": "NSE",
       "url": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
+      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
     },
     {
       "name": "PIB",
       "url": "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
+      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
     },
     {
       "name": "BSE",
       "url": "https://www.bseindia.com/data/xml/notices.xml",
       "ok": true,
-      "lastOkAt": "2026-11-18T05:42:39.877704+00:00"
+      "lastOkAt": "2026-11-18T06:26:05.994986+00:00"
     }
   ],
   "announcements": [
@@ -176,10 +176,10 @@
     },
     {
       "id": "itd-11978",
-      "title": "CBDT has notified that no tax shall be deducted on dividend income paid by an International Financial Services Centre (IFSC) unit engaged in aircraft leasing to another IFSC unit engaged in aircraft leasing, subject to furnishing the prescribed Form No. 1(N), with effect from 1 April 2026, under the Income-tax Act, 2025.Click here",
+      "title": "CBDT has notified that no tax shall be deducted on dividend income paid by an International Financial Services Centre (IFSC) unit engaged in aircraft leasing to another IFSC unit engaged in aircraft leasing, subject to furnishing the prescribed Form No. 1(N), with effect from 1 April 2026, under the Income-tax Act, 2025.",
       "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-11/Notification-No-141-2026.pdf",
       "category": "INCOME_TAX",
-      "summary": "CBDT has notified that no tax shall be deducted on dividend income paid by an International Financial Services Centre (IFSC) unit engaged in aircraft leasing to another IFSC unit engaged in aircraft leasing, subject to furnishing the prescribed Form No. 1(N), with effect from 1 April 2026, under the Income-tax Act, 2025.Click here",
+      "summary": "CBDT has notified that no tax shall be deducted on dividend income paid by an International Financial Services Centre (IFSC) unit engaged in aircraft leasing to another IFSC unit engaged in aircraft leasing, subject to furnishing the prescribed Form No. 1(N), with effect from 1 April 2026, under the Income-tax Act, 2025.",
       "ministry": "Income Tax Department",
       "publishedAt": "2026-11-06T07:44:33+00:00",
       "reference": "Notification No. 141/2026 dated 4 November 2026",
@@ -265,10 +265,10 @@
     },
     {
       "id": "itd-11975",
-      "title": "CBDT has notified the Income-tax (Eighth Amendment) Rules, 2026, introducing Rule 189A and new Form 112A for intimating the merger of registered non-profit organisations having the same or similar objects under the Income-tax Act, 2025.Click here",
+      "title": "CBDT has notified the Income-tax (Eighth Amendment) Rules, 2026, introducing Rule 189A and new Form 112A for intimating the merger of registered non-profit organisations having the same or similar objects under the Income-tax Act, 2025.",
       "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-No-139-2026.pdf",
       "category": "INCOME_TAX",
-      "summary": "CBDT has notified the Income-tax (Eighth Amendment) Rules, 2026, introducing Rule 189A and new Form 112A for intimating the merger of registered non-profit organisations having the same or similar objects under the Income-tax Act, 2025.Click here",
+      "summary": "CBDT has notified the Income-tax (Eighth Amendment) Rules, 2026, introducing Rule 189A and new Form 112A for intimating the merger of registered non-profit organisations having the same or similar objects under the Income-tax Act, 2025.",
       "ministry": "Income Tax Department",
       "publishedAt": "2026-11-03T08:00:09+00:00",
       "reference": "Notification No. 139/2026 dated 30 October 2026",
@@ -513,10 +513,10 @@
     },
     {
       "id": "itd-11973",
-      "title": "CBDT has proposed the Income-tax (Seventh Amendment) Rules, 2026, introducing Rule 281A and new Form 173A for furnishing information to claim exemption on interest income and capital gains from Government securities under Schedule IV of the Income-tax Act, 2025.Click here",
+      "title": "CBDT has proposed the Income-tax (Seventh Amendment) Rules, 2026, introducing Rule 281A and new Form 173A for furnishing information to claim exemption on interest income and capital gains from Government securities under Schedule IV of the Income-tax Act, 2025.",
       "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-137-2026.pdf",
       "category": "INCOME_TAX",
-      "summary": "CBDT has proposed the Income-tax (Seventh Amendment) Rules, 2026, introducing Rule 281A and new Form 173A for furnishing information to claim exemption on interest income and capital gains from Government securities under Schedule IV of the Income-tax Act, 2025.Click here",
+      "summary": "CBDT has proposed the Income-tax (Seventh Amendment) Rules, 2026, introducing Rule 281A and new Form 173A for furnishing information to claim exemption on interest income and capital gains from Government securities under Schedule IV of the Income-tax Act, 2025.",
       "ministry": "Income Tax Department",
       "publishedAt": "2026-10-27T03:55:24+00:00",
       "tags": [
@@ -684,10 +684,10 @@
     },
     {
       "id": "itd-11967",
-      "title": "CBDT has issued Notification No. 134/2026 dated 8 October 2026, notifying the Income-tax (Sixth Amendment) Rules, 2026, which introduce a revised Form 161 for filing applications for waiver of penalty under section 440(2) of the Income-tax Act, 2025.Click here",
+      "title": "CBDT has issued Notification No. 134/2026 dated 8 October 2026, notifying the Income-tax (Sixth Amendment) Rules, 2026, which introduce a revised Form 161 for filing applications for waiver of penalty under section 440(2) of the Income-tax Act, 2025.",
       "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-134-2026.pdf",
       "category": "INCOME_TAX",
-      "summary": "CBDT has issued Notification No. 134/2026 dated 8 October 2026, notifying the Income-tax (Sixth Amendment) Rules, 2026, which introduce a revised Form 161 for filing applications for waiver of penalty under section 440(2) of the Income-tax Act, 2025.Click here",
+      "summary": "CBDT has issued Notification No. 134/2026 dated 8 October 2026, notifying the Income-tax (Sixth Amendment) Rules, 2026, which introduce a revised Form 161 for filing applications for waiver of penalty under section 440(2) of the Income-tax Act, 2025.",
       "ministry": "Income Tax Department",
       "publishedAt": "2026-10-12T08:53:45+00:00",
       "reference": "Notification No. 134/2026 dated 8 October 2026",
@@ -695,10 +695,10 @@
     },
     {
       "id": "itd-11966",
-      "title": "CBDT Notification No. 133/2026 amends the 1988 notification to specify that Joint Commissioners (Appeals) and Additional Commissioners (Appeals) shall be subordinate to the jurisdictional Principal Chief Commissioner or Chief Commissioner of Income-tax. Click here",
+      "title": "CBDT Notification No. 133/2026 amends the 1988 notification to specify that Joint Commissioners (Appeals) and Additional Commissioners (Appeals) shall be subordinate to the jurisdictional Principal Chief Commissioner or Chief Commissioner of Income-tax.",
       "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-133-2026.pdf",
       "category": "INCOME_TAX",
-      "summary": "CBDT Notification No. 133/2026 amends the 1988 notification to specify that Joint Commissioners (Appeals) and Additional Commissioners (Appeals) shall be subordinate to the jurisdictional Principal Chief Commissioner or Chief Commissioner of Income-tax. Click here",
+      "summary": "CBDT Notification No. 133/2026 amends the 1988 notification to specify that Joint Commissioners (Appeals) and Additional Commissioners (Appeals) shall be subordinate to the jurisdictional Principal Chief Commissioner or Chief Commissioner of Income-tax.",
       "ministry": "Income Tax Department",
       "publishedAt": "2026-10-12T08:53:41+00:00",
       "reference": "Notification No. 133/2026",
@@ -806,7 +806,7 @@
     },
     {
       "id": "itd-11961",
-      "title": "The due dates for ITR and Audit Report are extended as below: Due date for filing of Income Tax Returns for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of Income Tax Act 1961 from 31st October 2026 to 21st November 2026\" Accordingly, the Audit Reports for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of Income Tax Act 1961 from 30th September 2026 to 21st October, 2026. Click here",
+      "title": "The due dates for ITR and Audit Report are extended as below: Due date for filing of Income Tax Returns for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of Income Tax Act 1961 from 31st October 2026 to 21st November 2026\" Accordingly, the Audit Reports for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of Income Tax Act 1961 from 30th September 2026 to 21st October, 2026.",
       "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
       "category": "INCOME_TAX",
       "summary": "",
@@ -821,10 +821,10 @@
     },
     {
       "id": "itd-11951",
-      "title": "CBDT has issued Notification No. 121/2026 extends TDS reporting requirements for non-resident property transactions and updates Forms 132 & 141.Click here",
+      "title": "CBDT has issued Notification No. 121/2026 extends TDS reporting requirements for non-resident property transactions and updates Forms 132 & 141.",
       "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-121-2026.pdf",
       "category": "INCOME_TAX",
-      "summary": "CBDT has issued Notification No. 121/2026 extends TDS reporting requirements for non-resident property transactions and updates Forms 132 & 141.Click here",
+      "summary": "CBDT has issued Notification No. 121/2026 extends TDS reporting requirements for non-resident property transactions and updates Forms 132 & 141.",
       "ministry": "Income Tax Department",
       "publishedAt": "2026-09-24T11:24:48+00:00",
       "reference": "Notification No. 121/2026",
@@ -950,10 +950,10 @@
     },
     {
       "id": "itd-11888",
-      "title": "CBDT has issued Notification No. 80/2026, notifying that specified payments such as interest, dividends, professional fees, commission, brokerage, and other financial service-related income received by eligible IFSC Units shall be exempt from TDS under the Income-tax Act, 2025. Click here",
+      "title": "CBDT has issued Notification No. 80/2026, notifying that specified payments such as interest, dividends, professional fees, commission, brokerage, and other financial service-related income received by eligible IFSC Units shall be exempt from TDS under the Income-tax Act, 2025.",
       "sourceUrl": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-80-2026.pdf",
       "category": "INCOME_TAX",
-      "summary": "CBDT has issued Notification No. 80/2026, notifying that specified payments such as interest, dividends, professional fees, commission, brokerage, and other financial service-related income received by eligible IFSC Units shall be exempt from TDS under the Income-tax Act, 2025. Click here",
+      "summary": "CBDT has issued Notification No. 80/2026, notifying that specified payments such as interest, dividends, professional fees, commission, brokerage, and other financial service-related income received by eligible IFSC Units shall be exempt from TDS under the Income-tax Act, 2025.",
       "ministry": "Income Tax Department",
       "publishedAt": "2026-07-13T08:57:56+00:00",
       "reference": "Notification No. 80/2026; F. No. 275/19/2026-IT(B)",
@@ -961,10 +961,10 @@
     },
     {
       "id": "itd-11884",
-      "title": "Excel Utility of ITR-7 for AY 2026-27 is available for filing. Click here",
+      "title": "Excel Utility of ITR-7 for AY 2026-27 is available for filing.",
       "sourceUrl": "https://www.incometax.gov.in/iec/foportal/downloads/income-tax-returns",
       "category": "INCOME_TAX",
-      "summary": "Excel Utility of ITR-7 for AY 2026-27 is available for filing. Click here",
+      "summary": "Excel Utility of ITR-7 for AY 2026-27 is available for filing.",
       "ministry": "Income Tax Department",
       "publishedAt": "2026-07-09T10:19:00+00:00",
       "tags": []
