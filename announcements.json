@@ -1,9 +1,9 @@
 {
   "schemaVersion": 4,
   "tagsRulesVersion": 6,
-  "generatedAt": "2026-11-20T11:43:12.253789+00:00",
-  "version": 1795174992,
-  "expires": "2026-11-27T11:43:12Z",
+  "generatedAt": "2026-11-20T21:07:02.222574+00:00",
+  "version": 1795208822,
+  "expires": "2026-11-27T21:07:02Z",
   "keyId": "433255ec77dedacb",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in), RBI notifications (rbi.org.in), SEBI (sebi.gov.in), NSE (nseindia.com), PIB (pib.gov.in), BSE (bseindia.com)",
   "sources": [
@@ -11,52 +11,64 @@
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-20T11:43:12.253789+00:00"
+      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-20T11:43:12.253789+00:00"
+      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-20T11:43:12.253789+00:00"
+      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
     },
     {
       "name": "RBI notifications",
       "url": "https://www.rbi.org.in/notifications_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-20T11:43:12.253789+00:00"
+      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
     },
     {
       "name": "SEBI",
       "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
       "ok": true,
-      "lastOkAt": "2026-11-20T11:43:12.253789+00:00"
+      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
     },
     {
       "name": "NSE",
       "url": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
       "ok": true,
-      "lastOkAt": "2026-11-20T11:43:12.253789+00:00"
+      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
     },
     {
       "name": "PIB",
       "url": "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1",
       "ok": true,
-      "lastOkAt": "2026-11-20T11:43:12.253789+00:00"
+      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
     },
     {
       "name": "BSE",
       "url": "https://www.bseindia.com/data/xml/notices.xml",
       "ok": true,
-      "lastOkAt": "2026-11-20T11:43:12.253789+00:00"
+      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "bse-20261120-30",
+      "title": "Review of Margin Framework for Commodity Derivatives Segment",
+      "sourceUrl": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-30/20261120-30.pdf",
+      "category": "MARKETS",
+      "summary": "",
+      "ministry": "BSE Limited",
+      "publishedAt": "2026-11-20T12:19:27+00:00",
+      "tags": [
+        "FNO_TRADER"
+      ]
+    },
     {
       "id": "bse-20261120-1",
       "title": "Review of Margin Framework for Commodity Derivatives Segment",
@@ -67,6 +79,31 @@
       "publishedAt": "2026-11-20T04:00:21+00:00",
       "tags": [
         "FNO_TRADER"
+      ]
+    },
+    {
+      "id": "nse-77541",
+      "title": "Exclusion of Futures and Options contracts on GODFRYPHLP",
+      "sourceUrl": "https://nsearchives.nseindia.com/content/circulars/FAOP77541.pdf",
+      "category": "MARKETS",
+      "summary": "",
+      "ministry": "National Stock Exchange of India",
+      "publishedAt": "2026-11-19T18:30:00+00:00",
+      "tags": [
+        "FNO_TRADER"
+      ]
+    },
+    {
+      "id": "gst-689",
+      "title": "Advisory: Introduction of Metro Rail as an Additional Mode of Transport in the E-Way Bill System",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "In accordance with Notification No. 05/2026–Central Tax dated 26.10.2026, effective from 01.11.2026, Metro Rail has been included under Rule 138(2A) of the CGST Rules, 2017, for the transportation of goods. Accordingly, Metro Rail has been introduced as an additional mode of transport in the E-Way Bill system.",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-11-19T18:30:00+00:00",
+      "reference": "Notification No. 05/2026",
+      "tags": [
+        "SMALL_BUSINESS"
       ]
     },
     {
