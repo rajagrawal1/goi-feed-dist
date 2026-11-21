@@ -1,9 +1,9 @@
 {
   "schemaVersion": 4,
   "tagsRulesVersion": 6,
-  "generatedAt": "2026-11-20T21:07:02.222574+00:00",
-  "version": 1795208822,
-  "expires": "2026-11-27T21:07:02Z",
+  "generatedAt": "2026-11-21T11:05:09.889394+00:00",
+  "version": 1795259109,
+  "expires": "2026-11-28T11:05:09Z",
   "keyId": "433255ec77dedacb",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in), RBI notifications (rbi.org.in), SEBI (sebi.gov.in), NSE (nseindia.com), PIB (pib.gov.in), BSE (bseindia.com)",
   "sources": [
@@ -11,52 +11,64 @@
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
+      "lastOkAt": "2026-11-21T11:05:09.889394+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
+      "lastOkAt": "2026-11-21T11:05:09.889394+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
+      "lastOkAt": "2026-11-21T11:05:09.889394+00:00"
     },
     {
       "name": "RBI notifications",
       "url": "https://www.rbi.org.in/notifications_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
+      "lastOkAt": "2026-11-21T11:05:09.889394+00:00"
     },
     {
       "name": "SEBI",
       "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
       "ok": true,
-      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
+      "lastOkAt": "2026-11-21T11:05:09.889394+00:00"
     },
     {
       "name": "NSE",
       "url": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
       "ok": true,
-      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
+      "lastOkAt": "2026-11-21T11:05:09.889394+00:00"
     },
     {
       "name": "PIB",
       "url": "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1",
       "ok": true,
-      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
+      "lastOkAt": "2026-11-21T11:05:09.889394+00:00"
     },
     {
       "name": "BSE",
       "url": "https://www.bseindia.com/data/xml/notices.xml",
       "ok": true,
-      "lastOkAt": "2026-11-20T21:07:02.222574+00:00"
+      "lastOkAt": "2026-11-21T11:05:09.889394+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "bse-20261121-1",
+      "title": "Release of new version of Market data API in Equity Derivatives Segment",
+      "sourceUrl": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261121-1/20261121-1.pdf",
+      "category": "MARKETS",
+      "summary": "",
+      "ministry": "BSE Limited",
+      "publishedAt": "2026-11-21T07:47:13+00:00",
+      "tags": [
+        "FNO_TRADER"
+      ]
+    },
     {
       "id": "bse-20261120-30",
       "title": "Review of Margin Framework for Commodity Derivatives Segment",
