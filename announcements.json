@@ -1,62 +1,127 @@
 {
   "schemaVersion": 4,
   "tagsRulesVersion": 6,
-  "generatedAt": "2026-11-22T20:22:10.985248+00:00",
-  "version": 1795378930,
-  "expires": "2026-11-29T20:22:10Z",
+  "generatedAt": "2026-11-23T12:47:13.808511+00:00",
+  "version": 1795438033,
+  "expires": "2026-11-30T12:47:13Z",
   "keyId": "433255ec77dedacb",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in), RBI notifications (rbi.org.in), SEBI (sebi.gov.in), NSE (nseindia.com), PIB (pib.gov.in), BSE (bseindia.com)",
   "sources": [
     {
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
-      "ok": false,
-      "lastOkAt": "2026-11-21T11:05:09.889394+00:00"
+      "ok": true,
+      "lastOkAt": "2026-11-23T12:47:13.808511+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-22T20:22:10.985248+00:00"
+      "lastOkAt": "2026-11-23T12:47:13.808511+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-22T20:22:10.985248+00:00"
+      "lastOkAt": "2026-11-23T12:47:13.808511+00:00"
     },
     {
       "name": "RBI notifications",
       "url": "https://www.rbi.org.in/notifications_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-22T20:22:10.985248+00:00"
+      "lastOkAt": "2026-11-23T12:47:13.808511+00:00"
     },
     {
       "name": "SEBI",
       "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
       "ok": true,
-      "lastOkAt": "2026-11-22T20:22:10.985248+00:00"
+      "lastOkAt": "2026-11-23T12:47:13.808511+00:00"
     },
     {
       "name": "NSE",
       "url": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
       "ok": true,
-      "lastOkAt": "2026-11-22T20:22:10.985248+00:00"
+      "lastOkAt": "2026-11-23T12:47:13.808511+00:00"
     },
     {
       "name": "PIB",
       "url": "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1",
       "ok": true,
-      "lastOkAt": "2026-11-22T20:22:10.985248+00:00"
+      "lastOkAt": "2026-11-23T12:47:13.808511+00:00"
     },
     {
       "name": "BSE",
       "url": "https://www.bseindia.com/data/xml/notices.xml",
       "ok": true,
-      "lastOkAt": "2026-11-22T20:22:10.985248+00:00"
+      "lastOkAt": "2026-11-23T12:47:13.808511+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "rbi-64030",
+      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series I due on November 25, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64030",
+      "category": "RATES",
+      "summary": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series I due on November 25, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-23T12:40:00+00:00",
+      "tags": [
+        "INVESTOR",
+        "SAVER"
+      ]
+    },
+    {
+      "id": "rbin-13756",
+      "title": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0",
+      "category": "RATES",
+      "summary": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-23T11:30:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "rbin-13755",
+      "title": "Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13755&Mode=0",
+      "category": "RATES",
+      "summary": "Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-23T11:30:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "rbin-13754",
+      "title": "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13754&Mode=0",
+      "category": "RATES",
+      "summary": "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-23T11:30:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "rbin-13753",
+      "title": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13753&Mode=0",
+      "category": "RATES",
+      "summary": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-23T11:30:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "nse-77549",
+      "title": "Introduction of Futures & Options Contracts on Two Individual Securities",
+      "sourceUrl": "https://nsearchives.nseindia.com/content/circulars/FAOP77549.zip",
+      "category": "MARKETS",
+      "summary": "",
+      "ministry": "National Stock Exchange of India",
+      "publishedAt": "2026-11-22T18:30:00+00:00",
+      "tags": [
+        "FNO_TRADER"
+      ]
+    },
     {
       "id": "bse-20261121-1",
       "title": "Release of new version of Market data API in Equity Derivatives Segment",
