@@ -1,9 +1,9 @@
 {
   "schemaVersion": 4,
   "tagsRulesVersion": 6,
-  "generatedAt": "2026-11-24T13:45:47.342591+00:00",
-  "version": 1795527947,
-  "expires": "2026-12-01T13:45:47Z",
+  "generatedAt": "2026-11-25T06:16:13.096002+00:00",
+  "version": 1795587373,
+  "expires": "2026-12-02T06:16:13Z",
   "keyId": "433255ec77dedacb",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in), RBI notifications (rbi.org.in), SEBI (sebi.gov.in), NSE (nseindia.com), PIB (pib.gov.in), BSE (bseindia.com)",
   "sources": [
@@ -11,49 +11,49 @@
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-24T13:45:47.342591+00:00"
+      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-24T13:45:47.342591+00:00"
+      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-24T13:45:47.342591+00:00"
+      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
     },
     {
       "name": "RBI notifications",
       "url": "https://www.rbi.org.in/notifications_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-24T13:45:47.342591+00:00"
+      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
     },
     {
       "name": "SEBI",
       "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
       "ok": true,
-      "lastOkAt": "2026-11-24T13:45:47.342591+00:00"
+      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
     },
     {
       "name": "NSE",
       "url": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
       "ok": true,
-      "lastOkAt": "2026-11-24T13:45:47.342591+00:00"
+      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
     },
     {
       "name": "PIB",
       "url": "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1",
       "ok": true,
-      "lastOkAt": "2026-11-24T13:45:47.342591+00:00"
+      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
     },
     {
       "name": "BSE",
       "url": "https://www.bseindia.com/data/xml/notices.xml",
       "ok": true,
-      "lastOkAt": "2026-11-24T13:45:47.342591+00:00"
+      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
     }
   ],
   "announcements": [
