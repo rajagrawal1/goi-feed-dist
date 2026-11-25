@@ -1,9 +1,9 @@
 {
   "schemaVersion": 4,
   "tagsRulesVersion": 6,
-  "generatedAt": "2026-11-25T06:16:13.096002+00:00",
-  "version": 1795587373,
-  "expires": "2026-12-02T06:16:13Z",
+  "generatedAt": "2026-11-25T12:58:28.275638+00:00",
+  "version": 1795611508,
+  "expires": "2026-12-02T12:58:28Z",
   "keyId": "433255ec77dedacb",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in), RBI notifications (rbi.org.in), SEBI (sebi.gov.in), NSE (nseindia.com), PIB (pib.gov.in), BSE (bseindia.com)",
   "sources": [
@@ -11,52 +11,74 @@
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
+      "lastOkAt": "2026-11-25T12:58:28.275638+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
+      "lastOkAt": "2026-11-25T12:58:28.275638+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
+      "lastOkAt": "2026-11-25T12:58:28.275638+00:00"
     },
     {
       "name": "RBI notifications",
       "url": "https://www.rbi.org.in/notifications_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
+      "lastOkAt": "2026-11-25T12:58:28.275638+00:00"
     },
     {
       "name": "SEBI",
       "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
       "ok": true,
-      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
+      "lastOkAt": "2026-11-25T12:58:28.275638+00:00"
     },
     {
       "name": "NSE",
       "url": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
       "ok": true,
-      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
+      "lastOkAt": "2026-11-25T12:58:28.275638+00:00"
     },
     {
       "name": "PIB",
       "url": "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1",
       "ok": true,
-      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
+      "lastOkAt": "2026-11-25T12:58:28.275638+00:00"
     },
     {
       "name": "BSE",
       "url": "https://www.bseindia.com/data/xml/notices.xml",
       "ok": true,
-      "lastOkAt": "2026-11-25T06:16:13.096002+00:00"
+      "lastOkAt": "2026-11-25T12:58:28.275638+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "sebi-105853",
+      "title": "Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024",
+      "sourceUrl": "https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html",
+      "category": "MARKETS",
+      "summary": "Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024",
+      "ministry": "Securities and Exchange Board of India",
+      "publishedAt": "2026-11-24T18:30:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "sebi-105839",
+      "title": "Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies",
+      "sourceUrl": "https://www.sebi.gov.in/legal/circulars/nov-2026/simplification-of-client-on-boarding-and-rationalisation-of-risk-management-framework-at-kyc-registration-agencies_105839.html",
+      "category": "MARKETS",
+      "summary": "Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies",
+      "ministry": "Securities and Exchange Board of India",
+      "publishedAt": "2026-11-24T18:30:00+00:00",
+      "tags": [
+        "INVESTOR"
+      ]
+    },
     {
       "id": "bse-20261123-28",
       "title": "Market Wide Position Limits for newly introduced Scrips in Equity Derivatives Segment",
