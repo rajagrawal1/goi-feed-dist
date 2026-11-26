@@ -1,9 +1,9 @@
 {
   "schemaVersion": 4,
   "tagsRulesVersion": 6,
-  "generatedAt": "2026-11-25T22:34:16.945406+00:00",
-  "version": 1795646056,
-  "expires": "2026-12-02T22:34:16Z",
+  "generatedAt": "2026-11-26T12:37:37.206881+00:00",
+  "version": 1795696657,
+  "expires": "2026-12-03T12:37:37Z",
   "keyId": "433255ec77dedacb",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in), RBI notifications (rbi.org.in), SEBI (sebi.gov.in), NSE (nseindia.com), PIB (pib.gov.in), BSE (bseindia.com)",
   "sources": [
@@ -11,52 +11,84 @@
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-25T22:34:16.945406+00:00"
+      "lastOkAt": "2026-11-26T12:37:37.206881+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-25T22:34:16.945406+00:00"
+      "lastOkAt": "2026-11-26T12:37:37.206881+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-25T22:34:16.945406+00:00"
+      "lastOkAt": "2026-11-26T12:37:37.206881+00:00"
     },
     {
       "name": "RBI notifications",
       "url": "https://www.rbi.org.in/notifications_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-25T22:34:16.945406+00:00"
+      "lastOkAt": "2026-11-26T12:37:37.206881+00:00"
     },
     {
       "name": "SEBI",
       "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
       "ok": true,
-      "lastOkAt": "2026-11-25T22:34:16.945406+00:00"
+      "lastOkAt": "2026-11-26T12:37:37.206881+00:00"
     },
     {
       "name": "NSE",
       "url": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
       "ok": true,
-      "lastOkAt": "2026-11-25T22:34:16.945406+00:00"
+      "lastOkAt": "2026-11-26T12:37:37.206881+00:00"
     },
     {
       "name": "PIB",
       "url": "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1",
       "ok": true,
-      "lastOkAt": "2026-11-25T22:34:16.945406+00:00"
+      "lastOkAt": "2026-11-26T12:37:37.206881+00:00"
     },
     {
       "name": "BSE",
       "url": "https://www.bseindia.com/data/xml/notices.xml",
       "ok": true,
-      "lastOkAt": "2026-11-25T22:34:16.945406+00:00"
+      "lastOkAt": "2026-11-26T12:37:37.206881+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "rbin-13758",
+      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13758&Mode=0",
+      "category": "RATES",
+      "summary": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-26T05:45:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "rbin-13757",
+      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13757&Mode=0",
+      "category": "RATES",
+      "summary": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-26T05:40:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "gst-690",
+      "title": "Advisory – Scheduled Maintenance of e-Invoice Services.",
+      "sourceUrl": "https://www.gst.gov.in/newsandupdates",
+      "category": "GST",
+      "summary": "A scheduled maintenance exercise is planned from 28-Nov-2026 0900 to 29-Nov-2026 1300 for the e-invoice system. The e-Invoice JSON download functionality (through the portal and APIs) would remain temporarily unavailable during this period. Taxpayers are advised to plan any of their related activities accordingly.",
+      "ministry": "GST Network (gst.gov.in)",
+      "publishedAt": "2026-11-25T18:30:00+00:00",
+      "tags": [
+        "SMALL_BUSINESS"
+      ]
+    },
     {
       "id": "bse-20261125-25",
       "title": "Change in Operating Guidelines of Closing Auction Session in Equity Derivatives Segment",
