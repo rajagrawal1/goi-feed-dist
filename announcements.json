@@ -1,9 +1,9 @@
 {
   "schemaVersion": 4,
   "tagsRulesVersion": 6,
-  "generatedAt": "2026-11-26T22:22:11.938934+00:00",
-  "version": 1795731731,
-  "expires": "2026-12-03T22:22:11Z",
+  "generatedAt": "2026-11-27T12:24:44.423143+00:00",
+  "version": 1795782284,
+  "expires": "2026-12-04T12:24:44Z",
   "keyId": "433255ec77dedacb",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in), RBI notifications (rbi.org.in), SEBI (sebi.gov.in), NSE (nseindia.com), PIB (pib.gov.in), BSE (bseindia.com)",
   "sources": [
@@ -11,52 +11,102 @@
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-26T22:22:11.938934+00:00"
+      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-26T22:22:11.938934+00:00"
+      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-26T22:22:11.938934+00:00"
+      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
     },
     {
       "name": "RBI notifications",
       "url": "https://www.rbi.org.in/notifications_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-26T22:22:11.938934+00:00"
+      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
     },
     {
       "name": "SEBI",
       "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
       "ok": true,
-      "lastOkAt": "2026-11-26T22:22:11.938934+00:00"
+      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
     },
     {
       "name": "NSE",
       "url": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
       "ok": true,
-      "lastOkAt": "2026-11-26T22:22:11.938934+00:00"
+      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
     },
     {
       "name": "PIB",
       "url": "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1",
       "ok": true,
-      "lastOkAt": "2026-11-26T22:22:11.938934+00:00"
+      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
     },
     {
       "name": "BSE",
       "url": "https://www.bseindia.com/data/xml/notices.xml",
       "ok": true,
-      "lastOkAt": "2026-11-26T22:22:11.938934+00:00"
+      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "rbin-13762",
+      "title": "Reserve Bank of India (White Label ATM Operators) Directions, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13762&Mode=0",
+      "category": "RATES",
+      "summary": "Reserve Bank of India (White Label ATM Operators) Directions, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-27T12:00:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "rbin-13761",
+      "title": "Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13761&Mode=0",
+      "category": "RATES",
+      "summary": "Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-27T12:00:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "rbin-13760",
+      "title": "Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13760&Mode=0",
+      "category": "RATES",
+      "summary": "Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-27T12:00:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "rbin-13759",
+      "title": "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13759&Mode=0",
+      "category": "RATES",
+      "summary": "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-27T11:25:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "sebi-105989",
+      "title": "FPI Participation in Exchange Traded Commodity Derivatives (ETCDs)",
+      "sourceUrl": "https://www.sebi.gov.in/legal/circulars/nov-2026/fpi-participation-in-exchange-traded-commodity-derivatives-etcds-_105989.html",
+      "category": "MARKETS",
+      "summary": "FPI Participation in Exchange Traded Commodity Derivatives (ETCDs)",
+      "ministry": "Securities and Exchange Board of India",
+      "publishedAt": "2026-11-26T18:30:00+00:00",
+      "tags": []
+    },
     {
       "id": "bse-20261126-33",
       "title": "Mock Trading from Disaster Recovery (DR) site on Saturday, November 28, 2026, for Equity Derivatives segment",
@@ -133,7 +183,7 @@
       "summary": "Implementation of Enhancements in FORM GST RFD-01 pursuant to Notification No. 05/2026-Central Tax dated 26 October 2026 In accordance with the amendments introduced, various enhancements are being introduced in the refund application functionality (FORM GST RFD-01) on the GST Portal.",
       "ministry": "GST Network (gst.gov.in)",
       "publishedAt": "2026-11-25T18:30:00+00:00",
-      "reference": "Notification No. 05/2026-Central Tax dated 26 October 2026; notification No. 40/2017-CT; notification No. 41/2017-IT",
+      "reference": "Notification No. 05/2026-Central Tax dated 26 October 2026",
       "tags": [
         "SMALL_BUSINESS"
       ]
