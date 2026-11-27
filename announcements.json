@@ -1,9 +1,9 @@
 {
   "schemaVersion": 4,
   "tagsRulesVersion": 6,
-  "generatedAt": "2026-11-27T12:24:44.423143+00:00",
-  "version": 1795782284,
-  "expires": "2026-12-04T12:24:44Z",
+  "generatedAt": "2026-11-27T21:58:38.828171+00:00",
+  "version": 1795816718,
+  "expires": "2026-12-04T21:58:38Z",
   "keyId": "433255ec77dedacb",
   "source": "Income Tax Department (incometax.gov.in), GST Network (gst.gov.in), Reserve Bank of India (rbi.org.in), RBI notifications (rbi.org.in), SEBI (sebi.gov.in), NSE (nseindia.com), PIB (pib.gov.in), BSE (bseindia.com)",
   "sources": [
@@ -11,52 +11,136 @@
       "name": "Income Tax Department",
       "url": "https://www.incometax.gov.in/iec/foportal/rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
+      "lastOkAt": "2026-11-27T21:58:38.828171+00:00"
     },
     {
       "name": "GST Network",
       "url": "https://www.gst.gov.in/fomessage/newsupdates",
       "ok": true,
-      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
+      "lastOkAt": "2026-11-27T21:58:38.828171+00:00"
     },
     {
       "name": "Reserve Bank of India",
       "url": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
+      "lastOkAt": "2026-11-27T21:58:38.828171+00:00"
     },
     {
       "name": "RBI notifications",
       "url": "https://www.rbi.org.in/notifications_rss.xml",
       "ok": true,
-      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
+      "lastOkAt": "2026-11-27T21:58:38.828171+00:00"
     },
     {
       "name": "SEBI",
       "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
       "ok": true,
-      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
+      "lastOkAt": "2026-11-27T21:58:38.828171+00:00"
     },
     {
       "name": "NSE",
       "url": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
       "ok": true,
-      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
+      "lastOkAt": "2026-11-27T21:58:38.828171+00:00"
     },
     {
       "name": "PIB",
       "url": "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1",
       "ok": true,
-      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
+      "lastOkAt": "2026-11-27T21:58:38.828171+00:00"
     },
     {
       "name": "BSE",
       "url": "https://www.bseindia.com/data/xml/notices.xml",
       "ok": true,
-      "lastOkAt": "2026-11-27T12:24:44.423143+00:00"
+      "lastOkAt": "2026-11-27T21:58:38.828171+00:00"
     }
   ],
   "announcements": [
+    {
+      "id": "rbin-13768",
+      "title": "Reserve Bank of India (Payment Banks - Know Your Customer) Amendment Directions, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13768&Mode=0",
+      "category": "RATES",
+      "summary": "Reserve Bank of India (Payment Banks - Know Your Customer) Amendment Directions, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-27T15:15:00+00:00",
+      "tags": [
+        "SAVER"
+      ]
+    },
+    {
+      "id": "rbin-13767",
+      "title": "Reserve Bank of India (Urban Co-operative Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13767&Mode=0",
+      "category": "RATES",
+      "summary": "Reserve Bank of India (Urban Co-operative Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-27T15:15:00+00:00",
+      "tags": [
+        "SAVER"
+      ]
+    },
+    {
+      "id": "rbin-13766",
+      "title": "Reserve Bank of India (Regional Rural Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13766&Mode=0",
+      "category": "RATES",
+      "summary": "Reserve Bank of India (Regional Rural Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-27T15:15:00+00:00",
+      "tags": [
+        "SAVER"
+      ]
+    },
+    {
+      "id": "rbin-13765",
+      "title": "Reserve Bank of India (Local Area Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13765&Mode=0",
+      "category": "RATES",
+      "summary": "Reserve Bank of India (Local Area Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-27T15:15:00+00:00",
+      "tags": [
+        "SAVER"
+      ]
+    },
+    {
+      "id": "rbin-13764",
+      "title": "Reserve Bank of India (Small Finance Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13764&Mode=0",
+      "category": "RATES",
+      "summary": "Reserve Bank of India (Small Finance Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-27T15:15:00+00:00",
+      "tags": [
+        "SAVER"
+      ]
+    },
+    {
+      "id": "rbin-13763",
+      "title": "Reserve Bank of India (Commercial Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "sourceUrl": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13763&Mode=0",
+      "category": "RATES",
+      "summary": "Reserve Bank of India (Commercial Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "ministry": "Reserve Bank of India",
+      "publishedAt": "2026-11-27T15:15:00+00:00",
+      "tags": [
+        "SAVER"
+      ]
+    },
+    {
+      "id": "bse-20261127-24",
+      "title": "Surveillance Action w.r.t dealing with unsolicited videos and messages circulated in social media platforms",
+      "sourceUrl": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261127-24/20261127-24.pdf",
+      "category": "MARKETS",
+      "summary": "",
+      "ministry": "BSE Limited",
+      "publishedAt": "2026-11-27T13:38:04+00:00",
+      "tags": [
+        "INVESTOR"
+      ]
+    },
     {
       "id": "rbin-13762",
       "title": "Reserve Bank of India (White Label ATM Operators) Directions, 2026",
